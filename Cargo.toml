@@ -1,0 +1,9 @@
+[package]
+name = "gltest"
+version = "0.1.0"
+authors = ["brett"]
+edition = "2018"
+
+[dependencies]
+sdl2 = "0.32.2"
+gl = "0.10.0"
